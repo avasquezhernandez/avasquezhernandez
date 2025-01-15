@@ -6,7 +6,7 @@
 - 🌍 Working on cyber-resilient space systems
 
 ## 📫 How to reach me:
-- 📧 [Email](a.vasquezhernandez@wustl.edu)
+- 📧 [a.vasquezhernandez@wustl.edu](a.vasquezhernandez@wustl.edu)
 
 <!--
 **avasquezhernandez/avasquezhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
