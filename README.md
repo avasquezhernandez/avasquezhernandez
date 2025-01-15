@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Alex 👋
+
+## 🚀 About Me
+- 🌟 Software Engineer 
+- 💡 Interested in cybersecurity, AI, and backend development
+- 🌍 Working on cyber-resilient space systems
+
+## 📫 How to reach me:
+- 📧 [Email](a.vasquezhernandez@wustl.edu)
 
 <!--
 **avasquezhernandez/avasquezhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
