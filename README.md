@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🌟 Software Engineer 
-- 💡 Interested in cybersecurity, AI, and backend development
+- 💡 Interested in cybersecurity, and backend development
 - 🌍 Working on cyber-resilient space systems
 
 ## 📫 How to reach me:
